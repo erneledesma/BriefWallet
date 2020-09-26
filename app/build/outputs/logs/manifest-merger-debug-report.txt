@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1b037732d694de07d4ee00f65dbfe5e9/navigation-ui-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/03270afcec74a1eacbe8a985b977d079/navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ba5ad6c0fab9ec5082ac33800e6fd875/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4a3ac3a6bd20165783b7799fbb0e0172/constraintlayout-2.0.0-beta4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/61ea8eeb49bd5deb3f22ee02ac94f173/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ad3046ce57eca03dddc9fe1536e434b1/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/71e16c99bf09eec79360378655d9bc31/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7bead64ce1d3242228086ec62b13b251/navigation-fragment-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/304b67c2665cfbea1396ec882e710663/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.mikhaellopez:circularprogressbar:3.0.3] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/36f834b0dc2c3c2b0cfea96c271c7125/jetified-circularprogressbar-3.0.3/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/f6716411eefe4c5f4e56219453074009/jetified-circleimageview-3.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/31105e16a572ce26e41efee643a971f5/navigation-runtime-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/03746442c793dba991fdbd4fe7035faf/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/9cfc4bf3809237ea8bd91dd2611460f0/jetified-activity-ktx-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0a5d40e4868d7112b6037d2c12e8339b/jetified-lifecycle-viewmodel-ktx-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1c56ac525cdbdd08d81c62ee654afd95/navigation-common-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5ca372f9ba7dcf606c3aef6611bbf682/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5520e32a256d92b83e3bda98b9f4c549/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/6e1221132ff9b8caa6de169fd3a92088/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/e24d55cd3fc535372c2abbc7d176c72a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/8dfc64aded3b895e16f0d609f6348349/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0e9d6569731bdd33dd34d4060773e766/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/29106948a191b1fe0523c818b607e19d/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/b0052534495676872557577a31ad75c5/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/314a8e8057748a05310b4ab05025f184/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/9fc5b75454eec4aec8170178215800dc/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/b56f180fd95a0e6f8e757ce80b1cdc90/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ade027b4fc02295dbe1fcf40c71ea097/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5c867cb136c9e81898af2cc3c2420db5/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4842e81bc247b85ff9dabbbdefdd20ce/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0353c00363e59168e482d31590677ec6/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/bde9b3d849b711cfca9b2723f63e221b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/8a5ba3bf092f3b42420c1c2fc833da61/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5f457bcf8d8e544bc643c1faadd0980a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7f1152d702e488820556ef07ea46f0b4/navigation-common-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/a8242e1121846dc7ad4ee651efa9ae68/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/39f85cef973cea17b90925eabab3e625/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/deecb6165c672187ae12d33b1a2b5168/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/c56f1256ba041eadb6b7b6f2c1ad0a04/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/763f05ff0e1935efd4a156ccf9bc5ae4/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/972ed3028eff14651a718c9386d08004/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1a2bfff9758b367e0ed77cc9a2a6fcd0/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4ecd397716241662b6dea4854e6a06b1/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7a6051eb54d302fe235793ea3070f2c0/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4c1d1444787a856d00450c1213b03614/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/de1bce9c42b71649b6342c0c8c8ebe86/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/e3d1780864a9d3be0e6c1d48b18e0ae4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/19caed7e64904d26cce557f47ca0e065/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5743f1d4837e3ff76ab68e4f032b9ee5/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/75cd180685c15ff1d6b0a00cd6076598/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1cbee302f9b73ff44cb9fd784764919a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ba5ad6c0fab9ec5082ac33800e6fd875/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ba5ad6c0fab9ec5082ac33800e6fd875/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4a3ac3a6bd20165783b7799fbb0e0172/constraintlayout-2.0.0-beta4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4a3ac3a6bd20165783b7799fbb0e0172/constraintlayout-2.0.0-beta4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/304b67c2665cfbea1396ec882e710663/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/304b67c2665cfbea1396ec882e710663/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/f6716411eefe4c5f4e56219453074009/jetified-circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/f6716411eefe4c5f4e56219453074009/jetified-circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/a8242e1121846dc7ad4ee651efa9ae68/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/a8242e1121846dc7ad4ee651efa9ae68/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/e3d1780864a9d3be0e6c1d48b18e0ae4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/e3d1780864a9d3be0e6c1d48b18e0ae4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/a8242e1121846dc7ad4ee651efa9ae68/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.erneledesma.briefwallet.MainActivity
+ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:15:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1b037732d694de07d4ee00f65dbfe5e9/navigation-ui-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1b037732d694de07d4ee00f65dbfe5e9/navigation-ui-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/03270afcec74a1eacbe8a985b977d079/navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/03270afcec74a1eacbe8a985b977d079/navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ba5ad6c0fab9ec5082ac33800e6fd875/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ba5ad6c0fab9ec5082ac33800e6fd875/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4a3ac3a6bd20165783b7799fbb0e0172/constraintlayout-2.0.0-beta4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4a3ac3a6bd20165783b7799fbb0e0172/constraintlayout-2.0.0-beta4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/61ea8eeb49bd5deb3f22ee02ac94f173/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/61ea8eeb49bd5deb3f22ee02ac94f173/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ad3046ce57eca03dddc9fe1536e434b1/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ad3046ce57eca03dddc9fe1536e434b1/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/71e16c99bf09eec79360378655d9bc31/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/71e16c99bf09eec79360378655d9bc31/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7bead64ce1d3242228086ec62b13b251/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7bead64ce1d3242228086ec62b13b251/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/304b67c2665cfbea1396ec882e710663/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/304b67c2665cfbea1396ec882e710663/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.mikhaellopez:circularprogressbar:3.0.3] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/36f834b0dc2c3c2b0cfea96c271c7125/jetified-circularprogressbar-3.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularprogressbar:3.0.3] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/36f834b0dc2c3c2b0cfea96c271c7125/jetified-circularprogressbar-3.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/f6716411eefe4c5f4e56219453074009/jetified-circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/f6716411eefe4c5f4e56219453074009/jetified-circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/31105e16a572ce26e41efee643a971f5/navigation-runtime-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/31105e16a572ce26e41efee643a971f5/navigation-runtime-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/03746442c793dba991fdbd4fe7035faf/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/03746442c793dba991fdbd4fe7035faf/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/9cfc4bf3809237ea8bd91dd2611460f0/jetified-activity-ktx-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/9cfc4bf3809237ea8bd91dd2611460f0/jetified-activity-ktx-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0a5d40e4868d7112b6037d2c12e8339b/jetified-lifecycle-viewmodel-ktx-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0a5d40e4868d7112b6037d2c12e8339b/jetified-lifecycle-viewmodel-ktx-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1c56ac525cdbdd08d81c62ee654afd95/navigation-common-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1c56ac525cdbdd08d81c62ee654afd95/navigation-common-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5ca372f9ba7dcf606c3aef6611bbf682/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5ca372f9ba7dcf606c3aef6611bbf682/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5520e32a256d92b83e3bda98b9f4c549/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5520e32a256d92b83e3bda98b9f4c549/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/6e1221132ff9b8caa6de169fd3a92088/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/6e1221132ff9b8caa6de169fd3a92088/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/e24d55cd3fc535372c2abbc7d176c72a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/e24d55cd3fc535372c2abbc7d176c72a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/8dfc64aded3b895e16f0d609f6348349/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/8dfc64aded3b895e16f0d609f6348349/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0e9d6569731bdd33dd34d4060773e766/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0e9d6569731bdd33dd34d4060773e766/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/29106948a191b1fe0523c818b607e19d/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/29106948a191b1fe0523c818b607e19d/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/b0052534495676872557577a31ad75c5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/b0052534495676872557577a31ad75c5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/314a8e8057748a05310b4ab05025f184/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/314a8e8057748a05310b4ab05025f184/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/9fc5b75454eec4aec8170178215800dc/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/9fc5b75454eec4aec8170178215800dc/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/b56f180fd95a0e6f8e757ce80b1cdc90/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/b56f180fd95a0e6f8e757ce80b1cdc90/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ade027b4fc02295dbe1fcf40c71ea097/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/ade027b4fc02295dbe1fcf40c71ea097/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5c867cb136c9e81898af2cc3c2420db5/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5c867cb136c9e81898af2cc3c2420db5/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4842e81bc247b85ff9dabbbdefdd20ce/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4842e81bc247b85ff9dabbbdefdd20ce/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0353c00363e59168e482d31590677ec6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/0353c00363e59168e482d31590677ec6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/bde9b3d849b711cfca9b2723f63e221b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/bde9b3d849b711cfca9b2723f63e221b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/8a5ba3bf092f3b42420c1c2fc833da61/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/8a5ba3bf092f3b42420c1c2fc833da61/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5f457bcf8d8e544bc643c1faadd0980a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5f457bcf8d8e544bc643c1faadd0980a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7f1152d702e488820556ef07ea46f0b4/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7f1152d702e488820556ef07ea46f0b4/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/a8242e1121846dc7ad4ee651efa9ae68/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/a8242e1121846dc7ad4ee651efa9ae68/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/39f85cef973cea17b90925eabab3e625/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/39f85cef973cea17b90925eabab3e625/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/deecb6165c672187ae12d33b1a2b5168/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/deecb6165c672187ae12d33b1a2b5168/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/c56f1256ba041eadb6b7b6f2c1ad0a04/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/c56f1256ba041eadb6b7b6f2c1ad0a04/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/763f05ff0e1935efd4a156ccf9bc5ae4/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/763f05ff0e1935efd4a156ccf9bc5ae4/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/972ed3028eff14651a718c9386d08004/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/972ed3028eff14651a718c9386d08004/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1a2bfff9758b367e0ed77cc9a2a6fcd0/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1a2bfff9758b367e0ed77cc9a2a6fcd0/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4ecd397716241662b6dea4854e6a06b1/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4ecd397716241662b6dea4854e6a06b1/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7a6051eb54d302fe235793ea3070f2c0/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/7a6051eb54d302fe235793ea3070f2c0/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4c1d1444787a856d00450c1213b03614/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4c1d1444787a856d00450c1213b03614/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/de1bce9c42b71649b6342c0c8c8ebe86/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/de1bce9c42b71649b6342c0c8c8ebe86/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/e3d1780864a9d3be0e6c1d48b18e0ae4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/e3d1780864a9d3be0e6c1d48b18e0ae4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/19caed7e64904d26cce557f47ca0e065/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/19caed7e64904d26cce557f47ca0e065/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5743f1d4837e3ff76ab68e4f032b9ee5/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/5743f1d4837e3ff76ab68e4f032b9ee5/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/75cd180685c15ff1d6b0a00cd6076598/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/75cd180685c15ff1d6b0a00cd6076598/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1cbee302f9b73ff44cb9fd784764919a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/1cbee302f9b73ff44cb9fd784764919a/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestoledesma/Downloads/brief-wallet-base_branch/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/df9fb3104e5984d01d5f722dd9ddddca/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/ernestoledesma/.gradle/caches/transforms-2/files-2.1/4f2e9e07038fe06a7138b2ff265bf95b/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
